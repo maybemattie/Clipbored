@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.maybemattie.clipbored;
 
 public class ClientProxy extends CommonProxy {
 
